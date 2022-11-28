@@ -1,6 +1,6 @@
 <?php
 
-define('URL', 'http://localhost/phoenix');
+define('URL', 'http://localhost/phoenix/');
 
 define('HOST', '127.0.0.1');
 define('DB', 'phoenixapp');

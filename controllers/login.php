@@ -3,7 +3,7 @@ class Login extends SessionController{
 
   function __construct(){
       parent::__construct();
-      error_log('Login::construct -> inicio de Login');
+      error_log('Login::construct -> Inicio de Login');
   }
 
   function render(){

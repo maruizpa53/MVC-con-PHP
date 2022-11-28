@@ -47,13 +47,13 @@ class View{
 
   public function showErrors(){
     if(array_key_exists('error', $this->d)){
-      echo '<div class="error">'.$this->d['error'].'</div>';
+        echo '<div class="error">'.$this->d['error'].'</div>';
     }
   }
 
   public function showSuccess(){
     if(array_key_exists('success', $this->d)){
-      echo '<div class="success">'.$this->d['success'].'</div>';
+        echo '<div class="success">'.$this->d['success'].'</div>';
     }
   }
 }

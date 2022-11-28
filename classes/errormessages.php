@@ -1,42 +1,67 @@
-<?php 
+<?php
 
 class ErrorMessages{
+  
+    //ERROR|SUCCESS
+    //Controller
+    //method
+    //operation
+    
+    //const ERROR_ADMIN_NEWCATEGORY_EXISTS = "El nombre de la categoría ya existe, intenta otra";
+    const ERROR_ADMIN_NEWCATEGORY_EXISTS          = "1f8f0ae8963b16403c3ec9ebb851f156";
+    const ERROR_PHOENIX_DELETE                    = "8f48a0845b4f8704cb7e8b00d4981233";
+    const ERROR_PHOENIX_NEWMAP                    = "8f48a0845b4f8704cb7e8b00d4981233";
+    const ERROR_PHOENIX_NEWMAP_EMPTY              = "a5bcd7089d83f45e17e989fbc86003ed";
+    const ERROR_USER_UPDATENAME_EMPTY             = "0f0735f8603324a7bca482debdf088fa";
+    const ERROR_USER_UPDATENAME                   = "98217b0c263b136bf14925994ca7a0aa";
+    const ERROR_USER_UPDATEPASSWORD               = "365009a3644ef5d3cf7a229a09b4d690";
+    const ERROR_USER_UPDATEPASSWORD_EMPTY         = "0f0735f8603324a7bca482debdf088fa";
+    const ERROR_USER_UPDATEPASSWORD_ISNOTTHESAME  = "27731b37e286a3c6429a1b8e44ef3ff6";
+    const ERROR_USER_UPDATEPHOTO                  = "dfb4dc6544b0dae81ea132de667b2a5d";
+    const ERROR_USER_UPDATEPHOTO_FORMAT           = "53f3554f0533aa9f20fbf46bd5328430";
+    const ERROR_LOGIN_AUTHENTICATE                = "11c37cfab311fbe28652f4947a9523c4";
+    const ERROR_LOGIN_AUTHENTICATE_EMPTY          = "2194ac064912be67fc164539dc435a42";
+    const ERROR_LOGIN_AUTHENTICATE_DATA           = "bcbe63ed8464684af6945ad8a89f76f8";
+    const ERROR_SIGNUP_NEWUSER                    = "1fdce6bbf47d6b26a9cd809ea1910222";
+    const ERROR_SIGNUP_NEWUSER_EMPTY              = "a5bcd7089d83f45e17e989fbc86003ed";
+    const ERROR_SIGNUP_NEWUSER_EXISTS             = "a74accfd26e06d012266810952678cf3";
 
-    // ERROR_CONTROLLER_METHOD_ACTION
 
-    const PRUEBA = "39e1d94aaae41a3ab7c6f71dd2d6f5e3";
-    const ERROR_SIGNUP_NEWUSER = "49e1d09aaae41a3ab7c6f62dd2d6f5e3";
-    const ERROR_SIGNUP_NEWUSER_EMPTY = "h432ed09nbaao41a3ab7c6f62dd2d6f202";
-    const ERROR_SIGNUP_NEWUSER_EXISTS = "a465ed09lmao35a3ab9c6f01dd2d6f703";
-    const ERROR_LOGIN_AUTHENTICATE_EMPTY = "g986ed18ccao85a3cb9v6f01dd286f984";
-    const ERROR_LOGIN_AUTHENTICATE_DATA = "g986ed18aaao95a3cb9v6f01dd286f989";
-    const ERROR_LOGIN_AUTHENTICATE = "vb806ed18bbao05a3cb9v87f01dd286f471";
-
-    private $errorList = [];
+    private $ErrorMessagesList = [];
 
     public function __construct()
     {
-        $this->errorList = [
-          ErrorMessages::PRUEBA => 'Este es un ejemplo de un mensaje de Error',
-          ErrorMessages::ERROR_SIGNUP_NEWUSER => 'Hubo un error al intentar la solicitud',
-          ErrorMessages::ERROR_SIGNUP_NEWUSER_EMPTY => 'Llena los campos de usuario y password',
-          ErrorMessages::ERROR_SIGNUP_NEWUSER_EXISTS => 'Ya existe ese nombre de usuario, escoge otro',
-          ErrorMessages::ERROR_LOGIN_AUTHENTICATE_EMPTY => 'Llena los campos de usuario y password',
-          ErrorMessages::ERROR_LOGIN_AUTHENTICATE_DATA => 'Nombre de usuario y/o password incorrecto',
-          ErrorMessages::ERROR_LOGIN_AUTHENTICATE => 'No se puede procesar la solicitud. Ingresa usuario y password'
+        $this->ErrorMessagesList = [
+            ErrorMessages::ERROR_ADMIN_NEWCATEGORY_EXISTS  => 'El nombre de la categoría ya existe, intenta otra',
+            ErrorMessages::ERROR_PHOENIX_DELETE            => 'Hubo un problema el eliminar el gasto, inténtalo de nuevo',
+            ErrorMessages::ERROR_PHOENIX_NEWMAP            => 'Hubo un problema al crear el gasto, inténtalo de nuevo',
+            ErrorMessages::ERROR_PHOENIX_NEWMAP_EMPTY      => 'Los campos no pueden estar vacíos',
+            ErrorMessages::ERROR_USER_UPDATENAME_EMPTY     => 'El nombre no puede estar vacio o ser negativo',
+            ErrorMessages::ERROR_USER_UPDATENAME           => 'No se puede actualizar el nombre',
+            ErrorMessages::ERROR_USER_UPDATEPASSWORD       => 'No se puede actualizar la contraseña',
+            ErrorMessages::ERROR_USER_UPDATEPASSWORD_EMPTY => 'El nombre no puede estar vacio o ser negativo',
+            ErrorMessages::ERROR_USER_UPDATEPASSWORD_ISNOTTHESAME => 'Los passwords no son los mismos',
+            ErrorMessages::ERROR_USER_UPDATEPHOTO          => 'Hubo un error al actualizar la foto',
+            ErrorMessages::ERROR_USER_UPDATEPHOTO_FORMAT   => 'El archivo no es una imagen',
+            ErrorMessages::ERROR_LOGIN_AUTHENTICATE        => 'Hubo un problema al autenticarse',
+            ErrorMessages::ERROR_LOGIN_AUTHENTICATE_EMPTY  => 'Los parámetros para autenticar no pueden estar vacíos',
+            ErrorMessages::ERROR_LOGIN_AUTHENTICATE_DATA   => 'Nombre de usuario y/o password incorrectos',
+            ErrorMessages::ERROR_SIGNUP_NEWUSER            => 'Hubo un error al intentar registrarte. Intenta de nuevo',
+            ErrorMessages::ERROR_SIGNUP_NEWUSER_EMPTY      => 'Los campos no pueden estar vacíos',
+            ErrorMessages::ERROR_SIGNUP_NEWUSER_EXISTS     => 'El nombre de usuario ya existe, selecciona otro',
         ];
     }
 
-    public function get($hash){
-      return $this->errorList[$hash];
+    function get($hash){
+        return $this->ErrorMessagesList[$hash];
     }
 
-    public function existsKey($key){
-      if(array_key_exists($key, $this->errorList)){
-        return true;
-      }else{
-        return false;
-      }
+    function existsKey($key){
+        if(array_key_exists($key, $this->ErrorMessagesList)){
+            return true;
+        }else{
+            return false;
+        }
     }
 }
 ?>

@@ -4,8 +4,8 @@ class SuccessMessages{
 
     // SUCCESS_CONTROLLER_METHOD_ACTION
 
-    const PRUEBA = "39e1d94aaae41a3ab7c6f71dd2d6f5e3";
-    const SUCCESS_SIGNUP_NEWUSER = "5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3";
+    const PRUEBA                  = "b4e3ddb267f3d1c0347b5b9213abeedb";
+    const SUCCESS_SIGNUP_NEWUSER  = "2ee085ac8828407f4908e4d134195e5c";
 
     private $successList = [];
 

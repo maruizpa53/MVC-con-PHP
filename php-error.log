@@ -2451,3 +2451,845 @@ Stack trace:
 #1 C:\xampp\htdocs\phoenix\index.php(18): require_once('C:\\xampp\\htdocs...')
 #2 {main}
   thrown in C:\xampp\htdocs\phoenix\models\usermodel.php on line 3
+[27-Nov-2022 16:45:45 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 16:45:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 16:45:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 16:45:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 16:45:45 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 16:45:45 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 16:45:45 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 16:45:47 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 16:45:47 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 16:45:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 16:45:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 16:45:47 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 16:45:47 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 16:45:47 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 16:45:53 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 16:45:53 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 16:45:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 16:45:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 16:45:53 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 16:45:54 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 16:45:54 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 17:20:10 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 17:20:10 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 17:20:10 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 17:20:10 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 17:20:10 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 17:20:10 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 17:20:10 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 18:11:07 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 18:11:07 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 18:11:07 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 18:11:07 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 18:11:07 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 18:11:07 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 18:11:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:12:28 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:12:28 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:12:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:12:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 21:12:28 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:12:28 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:12:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:12:28 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:12:28 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:12:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:12:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 21:12:28 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:12:28 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:12:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:12:29 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:12:29 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:12:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:12:29 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:12:29 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:12:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:12:29 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:12:29 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:12:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:12:29 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:12:29 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:12:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:12:29 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:12:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:42:31 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:42:31 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:42:31 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:42:31 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=g986ed18ccao85a3cb9v6f01dd286f984
+[27-Nov-2022 21:42:31 Europe/Berlin] Login::construct -> Inicio de Login
+[27-Nov-2022 21:42:31 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:42:31 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:42:38 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:42:38 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:42:38 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:42:38 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 21:42:38 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:42:38 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:42:38 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:44:41 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:44:41 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:44:41 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:44:41 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?user
+[27-Nov-2022 21:44:41 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:44:41 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:44:41 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:45:09 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:45:09 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:45:09 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:45:09 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 21:45:09 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:45:09 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:45:09 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:45:16 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:45:16 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:45:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:45:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 21:45:16 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:45:16 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:45:16 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:46:21 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:46:21 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:46:21 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:46:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 21:46:21 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:46:21 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:46:21 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:47:02 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:47:02 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:47:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:47:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 21:47:02 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:47:02 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:47:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 21:47:20 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 21:47:20 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 21:47:20 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 21:47:20 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 21:47:20 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 21:47:20 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 21:47:20 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:25:01 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:25:01 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:25:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:25:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:25:01 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:25:01 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:25:01 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:25:02 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:25:02 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:25:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:25:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:25:02 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:25:02 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:25:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:25:02 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:25:02 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:25:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:25:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:25:02 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:25:02 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:25:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:30:42 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:42 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:42 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:42 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:42 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:42 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:42 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:43 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:43 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:43 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:43 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:43 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:44 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:44 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:44 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:44 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:44 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:44 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:44 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:44 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:44 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:44 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:45 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:45 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:45 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:45 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:45 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:45 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:45 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:45 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:45 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:45 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:45 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:45 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:55 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:30:55 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:30:55 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:30:55 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:30:55 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:30:55 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:30:55 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:30:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:23 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:31:23 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:31:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:31:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:31:23 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:31:23 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:31:23 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:23 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:31:23 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:31:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:31:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:31:23 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:31:23 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:31:23 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:24 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:31:24 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:31:24 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:31:24 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:31:24 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:31:24 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:31:24 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:24 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:31:24 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:31:24 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:31:24 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:31:24 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:31:24 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:31:24 Europe/Berlin] PHP Warning:  require(views/header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:31:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\views\login\index.php:11
+Stack trace:
+#0 C:\xampp\htdocs\phoenix\libs\view.php(12): require()
+#1 C:\xampp\htdocs\phoenix\controllers\login.php(11): View->render('login/index')
+#2 C:\xampp\htdocs\phoenix\libs\app.php(23): Login->render()
+#3 C:\xampp\htdocs\phoenix\index.php(25): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\phoenix\views\login\index.php on line 11
+[27-Nov-2022 23:40:17 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:40:17 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:40:17 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:40:17 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:40:17 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:40:17 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:40:17 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:40:21 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:40:21 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:40:21 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:40:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:40:21 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:40:21 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:40:21 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:40:22 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:40:22 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:40:22 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:40:22 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:40:22 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:40:22 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:40:22 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:40:22 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:40:22 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:40:22 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:40:22 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:40:22 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:40:22 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:40:22 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:40:23 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:40:23 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:40:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:40:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:40:23 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:40:23 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:40:23 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:47:41 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:47:41 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:47:41 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:47:41 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:47:41 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:47:41 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:47:41 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:47:57 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:47:57 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:47:57 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:47:57 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[27-Nov-2022 23:47:57 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:47:57 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:47:57 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:51:32 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:51:32 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:51:32 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:51:32 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=39e1d94aaae41a3ab7c6f71dd2d6f5e3
+[27-Nov-2022 23:51:32 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:51:32 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:51:32 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:51:53 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:51:53 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:51:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:51:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[27-Nov-2022 23:51:53 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:51:53 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:51:53 Europe/Berlin] Errores::construct -> Inicio de Errores
+[27-Nov-2022 23:52:38 Europe/Berlin] Inicio de aplicacion web
+[27-Nov-2022 23:52:38 Europe/Berlin] APP::construct-> No hay controlador especificado
+[27-Nov-2022 23:52:38 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[27-Nov-2022 23:52:38 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?sucess=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[27-Nov-2022 23:52:38 Europe/Berlin] Login::construct -> inicio de Login
+[27-Nov-2022 23:52:38 Europe/Berlin] Login::render -> Carga el index del login
+[27-Nov-2022 23:52:38 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 03:51:53 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 03:51:53 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 03:51:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 03:51:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?sucess=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 03:51:53 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 03:51:53 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 03:51:53 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 14:45:58 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 14:45:58 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 14:45:58 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 14:45:58 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?sucess=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 14:45:58 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 14:45:58 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 14:45:58 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 14:47:59 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 14:47:59 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 14:47:59 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 14:47:59 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?sucess=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 14:47:59 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 14:47:59 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 14:47:59 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 14:48:06 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 14:48:06 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 14:48:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 14:48:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Nov-2022 14:48:06 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 14:48:06 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 14:48:06 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 14:48:19 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 14:48:19 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 14:48:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 14:48:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Nov-2022 14:48:19 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 14:48:19 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 14:48:19 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:11:35 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:11:35 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:11:35 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:11:35 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:11:35 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:11:35 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:11:35 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:11:35 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Nov-2022 15:11:35 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:11:35 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:11:35 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:11:41 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:11:41 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:11:41 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:11:41 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:11:41 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:11:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:11:42 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:11:42 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Nov-2022 15:11:42 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:11:42 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:11:42 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:12:06 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:12:06 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:12:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:12:06 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:06 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:06 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:12:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=39e1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:12:06 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:12:06 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:12:06 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:12:08 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:12:08 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:12:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:12:08 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:08 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:08 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:08 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:12:08 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=39e1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:12:08 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:12:08 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:12:08 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:12:28 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:12:28 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:12:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:12:28 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:28 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:28 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:12:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:12:28 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:12:28 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:12:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:12:49 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:12:49 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:12:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:12:49 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:49 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:49 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:12:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:12:49 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:12:49 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:12:49 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:12:49 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:12:49 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:12:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:12:49 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:49 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:12:49 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:12:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:12:49 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:12:49 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:12:49 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:16:30 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:16:30 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:16:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:16:30 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:16:30 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:16:30 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:16:30 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:16:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=5x6WEe1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:16:30 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:16:30 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:16:30 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:21:41 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:21:41 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:21:41 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:21:41 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:21:41 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:21:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:21:41 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:21:41 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=39e1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:21:41 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:21:41 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:21:41 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:21:52 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:21:52 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:21:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:21:52 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:21:52 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:21:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:21:52 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:21:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:21:52 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:21:52 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:21:52 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:22:26 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:22:26 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:22:26 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:22:26 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:26 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:26 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:22:26 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:22:26 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:22:26 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:22:26 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:22:26 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:22:26 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:22:26 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:22:26 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:26 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:26 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:22:26 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:22:26 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:22:26 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:22:26 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:22:27 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:22:27 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:22:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:22:27 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:27 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:27 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:22:27 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:22:27 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:22:27 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:22:27 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:22:44 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:22:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:22:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:22:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:22:45 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:22:45 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:22:45 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:22:45 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:22:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:22:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:22:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:22:45 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:22:45 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:22:45 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:22:45 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:22:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:22:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:22:45 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:22:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:22:45 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:22:45 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:22:45 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:23:26 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:23:26 Europe/Berlin] PHP Warning:  require_once(/phoenix/classes/errormessages.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/phoenix/classes/errormessages.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:28 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:23:28 Europe/Berlin] PHP Warning:  require_once(/phoenix/classes/errormessages.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/phoenix/classes/errormessages.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:28 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:23:28 Europe/Berlin] PHP Warning:  require_once(/phoenix/classes/errormessages.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/phoenix/classes/errormessages.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:33 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:23:33 Europe/Berlin] PHP Warning:  require_once(phoenix/classes/errormessages.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'phoenix/classes/errormessages.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\phoenix\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\phoenix\index.php on line 14
+[28-Nov-2022 15:23:44 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:23:44 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:23:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:23:44 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:23:44 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:23:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:23:44 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:23:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:23:44 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:23:44 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:23:44 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:23:45 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:23:45 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:23:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:23:45 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:23:45 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:23:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:23:45 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:23:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:23:45 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:23:45 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:23:45 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:24:11 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:24:11 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:24:11 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:24:11 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:11 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:11 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:24:11 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:24:11 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:24:11 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:24:11 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:24:28 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:24:28 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:24:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:24:28 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:24:28 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:24:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:24:28 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:24:28 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:24:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:24:28 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:24:28 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Array to string conversion in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Undefined variable $Array in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\phoenix\classes\sessioncontroller.php on line 107
+[28-Nov-2022 15:24:28 Europe/Berlin] SessionController::getCurrentPage()-> REQUEST_URI = 
+[28-Nov-2022 15:24:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:24:28 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:24:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:29:29 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:29:30 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:29:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:29:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:29:30 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:29:30 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:29:30 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:29:30 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:29:30 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:29:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:29:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:29:30 Europe/Berlin] Login::construct -> inicio de Login
+[28-Nov-2022 15:29:30 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:29:30 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:30:54 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:30:54 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:30:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:30:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:30:54 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:30:54 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:30:54 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:31:05 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:31:05 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:31:05 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:31:05 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:31:05 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:31:05 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:31:05 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:31:07 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:31:07 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:31:07 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:31:07 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 15:31:07 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:31:07 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:31:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:31:09 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:31:09 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:31:09 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:31:09 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Nov-2022 15:31:09 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:31:09 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:31:09 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:45:00 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:45:00 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:45:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:45:00 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[28-Nov-2022 15:45:00 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:45:00 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:45:00 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:45:05 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:45:05 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:45:05 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:45:05 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=39e1d94aaae41a3ab7c6f71dd2d6f5e3
+[28-Nov-2022 15:45:05 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:45:05 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:45:05 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:48:12 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:48:12 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:48:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:48:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=1f8f0ae8963b16403c3ec9ebb851f156
+[28-Nov-2022 15:48:12 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:48:12 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:48:12 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:48:25 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:48:26 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:48:26 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:48:26 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=a74accfd26e06d012266810952678cf3
+[28-Nov-2022 15:48:26 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:48:26 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:48:26 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:49:59 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:49:59 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:49:59 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:49:59 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=b4e3ddb267f3d1c0347b5b9213abeedb
+[28-Nov-2022 15:49:59 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:49:59 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:49:59 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 15:51:01 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 15:51:01 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 15:51:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 15:51:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?hfkj
+[28-Nov-2022 15:51:01 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 15:51:01 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 15:51:01 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 16:57:07 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 16:57:07 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 16:57:07 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 16:57:07 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?hfkj
+[28-Nov-2022 16:57:07 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 16:57:07 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 16:57:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 16:57:14 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 16:57:14 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 16:57:14 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 16:57:14 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 16:57:14 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 16:57:14 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 16:57:14 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 16:57:16 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 16:57:16 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 16:57:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 16:57:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=49e1d09aaae41a3ab7c6f62dd2d6f5e3
+[28-Nov-2022 16:57:16 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 16:57:16 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 16:57:16 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 16:57:33 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 16:57:33 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 16:57:33 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 16:57:33 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=1f8f0ae8963b16403c3ec9ebb851f156
+[28-Nov-2022 16:57:33 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 16:57:34 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 16:57:34 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 16:57:52 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 16:57:52 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 16:57:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 16:57:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=2ee085ac8828407f4908e4d134195e5c%22
+[28-Nov-2022 16:57:52 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 16:57:52 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 16:57:52 Europe/Berlin] Errores::construct -> Inicio de Errores
+[28-Nov-2022 16:57:59 Europe/Berlin] Inicio de aplicacion web
+[28-Nov-2022 16:57:59 Europe/Berlin] APP::construct-> No hay controlador especificado
+[28-Nov-2022 16:57:59 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[28-Nov-2022 16:57:59 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?success=2ee085ac8828407f4908e4d134195e5c
+[28-Nov-2022 16:57:59 Europe/Berlin] Login::construct -> Inicio de Login
+[28-Nov-2022 16:57:59 Europe/Berlin] Login::render -> Carga el index del login
+[28-Nov-2022 16:57:59 Europe/Berlin] Errores::construct -> Inicio de Errores

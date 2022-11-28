@@ -31,7 +31,7 @@ class Signup extends SessionController{
       if($user->exists($username)){
         $this->redirect('signup', ['error' => ErrorMessages:: ERROR_SIGNUP_NEWUSER_EXISTS]);
       }else if($user->save()){
-        $this->redirect('', ['sucess' => SuccessMessages::SUCCESS_SIGNUP_NEWUSER]);
+        $this->redirect('', ['success' => SuccessMessages::SUCCESS_SIGNUP_NEWUSER]);
       }else{
         $this->redirect('signup', ['error' => ErrorMessages::ERROR_SIGNUP_NEWUSER]);
       }

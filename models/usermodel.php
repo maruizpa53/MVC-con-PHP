@@ -162,6 +162,7 @@ class UserModel extends Model implements IModel{
   public function setPhoto($photo){       $this->photo = $photo;}
   public function setName($name){         $this->name = $name;}
   public function setUsername($username){ $this->username = $username;}
+  
   public function setPassword($password){
     $this->password = $this->getHashedPassword($password);
   }

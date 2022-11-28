@@ -62,7 +62,8 @@ class Controller{
         $params = '?' . $params;
       }
 
-      header('Location: ' . constant ('URL') . '/' . $route . $params);
+      error_log('Controller::redirect->' . constant('URL') . $route . $params);
+      header('Location: ' . constant ('URL') . $route . $params);
   }
 }
 

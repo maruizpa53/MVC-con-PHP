@@ -114,7 +114,7 @@ class SessionController extends Controller{
       for($i = 0; $i < sizeof($this->sites); $i++){
         if($this->sites[$i]['role'] = $role){
             error_log('SessionController::redirectDefaultSiteByRole-> role = ' . $role . ', ');
-            $url = '/phoenix/' . $this->sites[$i]['site'];
+            $url = 'phoenix/' . $this->sites[$i]['site'];
             error_log('SessionController::redirectDefaultSiteByRole-> url = ' . $url);
         break;
         }
